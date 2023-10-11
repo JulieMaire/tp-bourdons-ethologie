@@ -1,62 +1,8 @@
 # tp-etho
-UMons – Département de Biologie - Rédaction : William Fiordaliso
-1
-Remarques et conseils pour la rédaction scientifique
-Sommaire :
-Plagiat :........................................................................................................................................ 3
-Pourquoi le plagiat n’est pas à votre avantage ?................................................................................3
-Pourquoi le plagiat est dangereux pour vous ? ..................................................................................3
-Quelles sont les limites du plagiat ? ...................................................................................................3
-Rédaction et présentation : .......................................................................................................... 4
-Squelette et fil conducteur.................................................................................................................4
-Les apparences comptent ! ................................................................................................................4
-Les coquilles.......................................................................................................................................4
-La syntaxe...........................................................................................................................................4
-Connecteurs logiques.........................................................................................................................5
-Style et registre de langage ................................................................................................................6
-L’expression du doute ........................................................................................................................6
-La téléologie et les erreurs d’attribution............................................................................................6
-Flou artistique ....................................................................................................................................7
-Aller droit au but ................................................................................................................................7
-Le jargon.............................................................................................................................................7
-Plusieurs voix à la fois : la polyphonie ................................................................................................8
-L’introduction :............................................................................................................................. 8
-Contenu..............................................................................................................................................8
-Du général au particulier....................................................................................................................9
-Les objectifs : ............................................................................................................................... 9
-Le matériels et méthodes : ........................................................................................................... 9
-Canevas..............................................................................................................................................9
-Expliquer d’abord, justifier ensuite ..................................................................................................10
-« C’est le prof qui a demandé ! » .....................................................................................................10
-Des sources, encore et toujours.......................................................................................................10
-Résultats.................................................................................................................................... 11
-Formalités :.......................................................................................................................................11
-Commentaires : ................................................................................................................................11
-Discussion.................................................................................................................................. 11
-Structure générale............................................................................................................................11
-Biais expérimentaux .........................................................................................................................12
-Affirmer son opinion ........................................................................................................................12
-UMons – Département de Biologie - Rédaction : William Fiordaliso
-2
-Raisonnements incomplets..............................................................................................................13
-Le bon et le mauvais syllogisme .......................................................................................................13
-Bibliographie.............................................................................................................................. 14
-L’esprit et la puissance de la bibliographie.......................................................................................14
-Le format bibliographique................................................................................................................15
-Citations parenthétiques..................................................................................................................16
-L’union fait la force...........................................................................................................................16
-« Je fais appel à mon joker ! » ..........................................................................................................17
-Citations narratives ..........................................................................................................................17
-Références bibliographiques............................................................................................................17
-Sites internet....................................................................................................................................17
-Qualité des sources..........................................................................................................................18
-Le téléphone arabe : sources primaires contre sources secondaires...............................................18
-Comment utiliser Wikipédia.............................................................................................................19
-Chercheurs polyglottes.....................................................................................................................19
-Rechercher et obtenir des sources...................................................................................................19
 
+## Remarques et conseils pour la rédaction scientifique
 
-Plagiat :
+### Plagiat :
 Pourquoi le plagiat n’est pas à votre avantage ?
 Les rapports de TP ont vocation à vous former. En les rédigeant vous apprenez non seulement
 des éléments propres à la matière enseignée, mais vous vous entraînez également à la
@@ -89,7 +35,7 @@ complexes avec vos propres mots, c’est une compétence qui vous sera toujours 
 même en dehors de l’université.
 
 
-Rédaction et présentation :
+### Rédaction et présentation :
 Squelette et fil conducteur
 Si vos idées ne sont pas claires, n’hésitez pas à rédiger un squelette de texte ! Listez les idées
 clés et organisez-les en écrivant les liens qui les unissent. Idéalement, un texte ne devrait
@@ -112,7 +58,7 @@ Au passage, si les outils de traitement de texte ne vous sont pas familiers, inv
 de temps pour maîtriser leurs fonctions de base. C’est un investissement qui sera toujours
 payant ! Petite astuce pour débutant : pour donner un meilleur rendu à vos textes, justifiezavec Ctrl J ou bien le bouton : .
 
-Les coquilles
+### Les coquilles
 Les coquilles, c’est quand votre texte comporte une faute de frappe, une faute d’orthographe,
 etc. Relisez votre texte et essayez d’en supprimer un maximum. A l’heure des correcteurs
 automatiques, laisser des coquilles relève de la fainéantise ! Pour le correcteur, retrouver de
@@ -128,7 +74,7 @@ rencontrez des difficultés, pensez à vérifier les points qui suivent :
 • Mes idées sont-elles formulées dans le bon ordre ?
 • Ai-je utilisé le bon connecteur logique pour relier les idées entre elles ?
 
-Petit conseil : si vous rencontrez des problèmes de rédaction, ne soyez pas trop gourmands !
+#### Petit conseil : si vous rencontrez des problèmes de rédaction, ne soyez pas trop gourmands !
 Rédiger des phrases complexes est parfois inutile et surtout risqué si vous ne savez pas vous
 y prendre correctement. Dites-vous également que le style scientifique accepte plus
 facilement la répétition des mots et la sobriété des tournures.
@@ -199,9 +145,8 @@ réfutations plus mesurées :
 « Cette maison est belle, toutefois elle est chère. »
 ➢ L’affirmation initiale est remise en cause mais
 elle n’est pas complètement effacée.
-UMons – Département de Biologie - Rédaction : William Fiordaliso
-6
-Concession : présente un raisonnement comme
+
+#### Concession : présente un raisonnement comme
 étant insuffisant pour contredire l’infirmation qui
 le précède.
 Bien que
@@ -215,13 +160,17 @@ Exemple :
 « La maison est belle, bien qu’elle soit chère. »
 ➢ Il y a du pour et du contre, je ne me suis pas
 prononcé.
-Style et registre de langage
+
+
+### Style et registre de langage
 Le registre de langage doit être impersonnel et formel. Autrement dit, hors de question de
 vous exprimer comme vous le feriez à l’oral.
 Pour rendre votre texte impersonnel, utilisez la voix passive, le « il » impersonnel, le « on » ou
 le « nous » de modestie. N’utilisez jamais d’adjectifs ou de noms laissant transparaître votre
 jugement. En science, les choses ne sont jamais belles, bonnes ou mauvaises.
-L’expression du doute
+
+
+### L’expression du doute
 Un bon scientifique est aussi un bon zététicien (un philosophe du doute). Être méthodique et
 prudent est crucial si l’on souhaite examiner des données correctement. Dans l’absolu, il est
 impossible de réunir un jeu de données permettant de répondre à une question avec
@@ -234,7 +183,9 @@ ce faire, exprimez-vous au conditionnel, précédez les informations peu vérifi
 telle personne », « d’après telle personne » etc. A la place de « nos résultats démontrent que
 » ou « nous pouvons affirmer que », utilisez des formules peu assertives comme « les résultats
 suggèrent », « nos données mettent en évidence », « il semblerait que », etc.
-La téléologie et les erreurs d’attribution
+
+
+### La téléologie et les erreurs d’attribution
 La téléologie, c’est supposer que les choses arrivent spontanément car elles ont une finalité.
 L’erreur d’attribution, c’est supposer que ce qui arrive aux gens, aux animaux, ne leur arrive
 qu’en raison de leurs choix personnels. Ces considérations ne relèvent pas du domaine de la
@@ -250,7 +201,9 @@ Exemple d’erreur d’attribution :
 Le bourdon n’a pas d’avocat pour se défendre, on ne peut pas présumer de ses motivations.
 Tout ce qu’on peut dire, c’est qu’il a effectivement arrêté de manger. Cet arrêt pourrait
 d’ailleurs être lié à un facteur externe plutôt qu’au bourdon lui-même.
-Flou artistique
+
+
+### Flou artistique
 Le but d’un texte scientifique est d’être clair et concis. Si vous pouvez préciser vos
 informations sans pour autant rallonger votre texte, faites-le !
 Exemples :
@@ -264,7 +217,7 @@ chauffer la solution.
 Des phrases imprécises laissent penser que vous ne maîtrisez pas votre sujet ou votre
 protocole. Prêtez-y attention !
 
-Aller droit au but
+### Aller droit au but
 Dans un texte, on s’attend en général à ce que chaque nouvelle phrase apporte sa contribution
 au raisonnement. Si jamais le discours se répète et tourne en rond, vous risquez non
 seulement d’ennuyer vos lecteurs mais aussi d’effacer la progression logique de votre texte :
@@ -280,7 +233,7 @@ l’intérieur d’une même phrase :
 « Les animaux sont des métazoaires. »
 Face à un tel déluge de répétitions, la véritable information peut devenir inaudible.
 
-Le jargon
+### Le jargon
 Il n’y a pas de mal à utiliser des mots précis et sophistiqués quand on en connaît la
 signification. Cependant, nous devons également nous rappeler que tous les niveaux de
 langage ne se prêtent pas à toutes les situations :
@@ -291,7 +244,7 @@ préfèrera employer la formulation suivante :
 « Les lézards ont été nourris avec des grillons (Gryllus campestris) et avaient accès à un
 distributeur d’eau. »
 
-Plusieurs voix à la fois : la polyphonie
+### Plusieurs voix à la fois : la polyphonie
 Comment donner la parole à différents auteurs dans votre texte sans pour autant passer pour
 un schizophrène ?
 Dans votre rapport, veillez à attribuer les différentes opinions exposées à leurs auteurs
@@ -308,7 +261,7 @@ le tir, on dira plutôt :
 nouveaux travaux semblent contredire cette idée (Macaroni et al., 2008). »
 
 
-L’introduction :
+### L’introduction :
 Contenu
 Les introductions de rapports sont souvent encadrées par des consignes précisant le contenu
 attendu. Le tout est de s’assurer de ne rien oublier et de sourcer correctement votre texte. Si
@@ -325,7 +278,7 @@ référence à des résultats obtenus à partir d’un protocole parfaitement id
 Pour des informations plus triviales (tout ce qui est de notoriété publique), il est
 également possible de se référer à un bouquin de référence plutôt qu’à un article.
 
-Du général au particulier
+#### Du général au particulier
 Quelle structure suivre lorsque le canevas de l’introduction n’est pas donné ? Tout d’abord,
 lorsqu’on développe une introduction, il est souvent nécessaire de débuter par quelques
 généralités permettant de planter le décor et de mettre le lecteur à niveau. Par principe, ces
@@ -339,7 +292,7 @@ En résumé, vous devez toujours rédiger en allant du plus général au plus pa
 accordant plus d’importance aux aspects précis de votre étude par rapport aux généralités.
 
 
-Les objectifs :
+### Les objectifs :
 La section « objectifs » peut être rédigé en suivant ce canevas :
 • Quelle est la thématique de ce travail ? Quels sont ses enjeux ? Mettez le lecteur dans
 le bain et, si possible, essayez de le convaincre que le sujet que vous étudiez est
@@ -354,7 +307,7 @@ déjà ? N’oubliez pas, si vous faites une référence à la littérature, il 
 sources !
 
 
-Le matériels et méthodes :
+### Le matériels et méthodes :
 Canevas
 Si vous avez plusieurs questions scientifiques, divisez votre matériels et méthodes en
 rédigeant un protocole pour chaque question.
@@ -373,7 +326,8 @@ On peut se contenter de justifier son emploi et de donner les spécifications n�
 déroulement.
 Si les consignes ne sont pas claires pour vous, n’hésitez jamais à demander ce que vous devez
 et ne devez pas expliquer dans votre matériel et méthode.
-Expliquer d’abord, justifier ensuite
+
+#### Expliquer d’abord, justifier ensuite
 Un excès de prudence peut considérément compliquer la lecture de votre protocole. Avant de
 vous lancer dans de longues justifications à propos de l’emploi de telle ou telle méthode,
 assurez-vous de commencer par expliquer ce que vous avez fait.
@@ -403,7 +357,7 @@ expliquer votre démarche. Si vous vous lancez dans quelque chose de nouveau, ex
 raisonnement derrière votre nouvelle méthodologie.
 
 
-Résultats
+### Résultats
 Formalités :
 Les figures doivent être parfaitement lisibles. Le texte qui y est présenté doit pouvoir être
 imprimé et lu sans difficultés.
@@ -415,7 +369,7 @@ Fig. 1. Nom du graphique : ce qu’il y a à savoir pour lire le graphique.
 Si le titre de la figure est déjà indiqué dans la légende, il n’est pas nécessaire de le renoter en
 haut de la figure.
 
-Commentaires :
+#### Commentaires :
 Il ne suffit pas d’afficher vos figures pour compléter votre section résultat. Il est essentiel de
 rédiger un commentaire dans lequel vous mettrez en évidence les éléments qui vous
 paraissent importants, sans chercher à les expliquer (la discussion est là pour ça).
@@ -427,7 +381,7 @@ faites allusion en insérant une référence du type (Fig. 1) ou (Tab. 1). Cela 
 dans votre discussion.
 
 
-Discussion
+### Discussion
 Structure générale
 Dans une discussion, on suit en général le canevas suivant :
 • Rappel des questions posées par l’article.
@@ -455,14 +409,16 @@ Donnez à votre lectorat différentes perspectives sur les moyens de poursuivre 
 Faudrait-il s’intéresser à un aspect jusqu’ici négligé par la littérature ?
 
 
-Biais expérimentaux
+### Biais expérimentaux
 L’exposition des biais expérimentaux n’est pas une séance d’auto-flagellation. Cette partie de
 la discussion ne doit pas servir à s’excuser mais plutôt à tempérer votre raisonnement par des
 concessions.
 Si jamais un problème rend tout interprétation des résultats impossible, il peut être pertinent
 d’orienter votre discussion vers un travail méthodologique dont l’objectif serait de rectifier le
 protocole et d’en discuter la pertinence.
-Affirmer son opinion
+
+
+### Affirmer son opinion
 Revenons quelques instants sur la notion de polyphonie.
 Dans une introduction, l’auteur d’un article est en général assez peu présent. En effet,
 l’introduction est un espace où l’on donne la parole à d’autres scientifiques afin de constituer
@@ -488,7 +444,9 @@ de la littérature. Une étude supplémentaire pourrait nous permettre de confir
 hypothèse en supprimant les biais expérimentaux. »
 Vous pouvez constater qu’en tant qu’auteur, vous êtes libre de vous positionner comme vous
 le souhaitez, du moment que vous développez vos idées.
-Raisonnements incomplets
+
+
+### Raisonnements incomplets
 Dans une discussion, répondre à une problématique génère souvent de nouvelles questions
 auxquelles il est préférable de s’intéresser si l’on souhaite délivrer un raisonnement complet.
 Prenons l’exemple suivant :
@@ -508,7 +466,9 @@ les stérols d’origine animale mais il semblerait que certaines espèces de Tr
 mesure de le faire. »
 L’auteur qui se serait arrêté à l’affirmation initiale sans remarquer que celle-ci soulevait un
 autre problème aurait donc négligé l’essentiel de l’information.
-Le bon et le mauvais syllogisme
+
+
+### Le bon et le mauvais syllogisme
 Le syllogisme est l’un des raisonnements les plus simples. On part de deux prémisses, c’est-àdire deux informations connues. En reliant ces informations entre elles, on formule une
 conclusion, c’est-à-dire une information nouvelle.
 La première des prémisses est la majeure : il s’agit d’une vérité générale déjà démontrée.
@@ -518,7 +478,9 @@ rattachons au cas général.
 Mineure : « Notre observation B appartient à l’ensemble A. »
 La conclusion consiste à rattacher les propriétés générales de la majeure au cas observé dans
 la mineure.
-Conclusion : « Par conséquent, B possède la propriété Alpha. »
+
+
+### Conclusion : « Par conséquent, B possède la propriété Alpha. »
 L’écueil à éviter consiste à sauter de la majeure à la conclusion sans passer par la mineure
 (c’est ce qu’on appelle « prendre un raccourci »). En effet, un raisonnement doit pouvoir être
 suivi de bout en bout, sans forcer le lecteur à deviner des informations, quand bien même
@@ -552,7 +514,7 @@ douteuse. Pour garantir à votre lectorat que les prémisses sont acceptables, a
 de références quand cela est nécessaire !
 
 
-Bibliographie
+### Bibliographie
 L’esprit et la puissance de la bibliographie
 Les étudiants qui commencent à rédiger se demandent souvent pourquoi il est nécessaire de
 réaliser l’une de ces ennuyeuses bibliographies. Ce travail est effectivement long et fastidieux,
@@ -568,7 +530,8 @@ même vous seriez paranoïaque, disposer du protocole vous permettrait de reprod
 l’expérience afin de constater les résultats par vous-même.
 Si l’on est un peu plus confiant envers les chercheurs, on peut se demander, à l’inverse, s’il est
 vraiment utile pour le lecteur de pouvoir vérifier toutes les informations avancées dans un
-article. A ce sujet, deux réponses sont à considérer :
+article. 
+A ce sujet, deux réponses sont à considérer :
 • Peut-être que pour vous, l’information à sourcer est triviale et ne nécessite aucune
 justification. Cela n’est toutefois pas le cas pour tout le monde. Si, en lisant un article,
 l’auteur vous dit avoir utilisé une méthode très répandue que vous ne connaissez
@@ -619,7 +582,9 @@ Si un auteur prolifique a publié plusieurs articles la même année, on les sé
 lettres minuscules : (Macaroni, 2020a) et (Macaroni, 2020b). Cette séparation est à conserver
 dans la bibliographie.
 Si la date est absente, on note : (Macaroni, n.d.)
-L’union fait la force
+
+
+#### L’union fait la force
 Si vous désirez renforcer une information qui pourrait surprendre ou indiquer la présence d’un
 consensus, vous pourriez avoir recours à une citation multiple :
 « Cette théorie est aujourd’hui largement reconnue (Macaroni, 2016 ; Carbonara, 2019,
@@ -636,7 +601,9 @@ information n’est pas librement accessible. Si quelqu’un souhaite en savoir 
 directement contacter la personne citée :
 « Ces résultats pourraient être expliqués par le phénomène A (J. Macaroni, communication
 personnelle, 11 mars 2019). » La date est facultative.
-Citations narratives
+
+
+#### Citations narratives
 Une citation narrative est énoncée directement dans le discours, sans utiliser de parenthèses.
 Utiliser une citation narrative permet de se distancier par rapport à un auteur.
 Exemple : « Selon Macaroni et al. (2019), la théorie A serait appuyée par l’élément B. »
@@ -652,7 +619,7 @@ Ces références doivent être classées par ordre alphabétique, puis par ordre
 Dans Word, il est possible trier toutes vos références automatiquement par ordre
 alphabétique :
 
-Sites internet
+#### Sites internet
 Si une page dispose d’un auteur, celle-ci peut se citer dans le texte comme un article
 scientifique. Dans la bibliographie, la structure de la référence devient :
 « Macaroni (2019). About the benefits of pasta. Retrieved March 15, 2022, from
@@ -698,7 +665,7 @@ encyclopédie réunissant des informations retrouvées ailleurs. A ce titre, il 
 secondaire. Par chance, les articles Wikipédia sont normalement référencés, il est donc
 possible de retrouver d’où vient l’information que vous êtes en train de lire.
 
-Chercheurs polyglottes
+#### Chercheurs polyglottes
 Bien souvent, le nombre d’articles disponibles en français est assez limité. Effectuez vos
 recherches en Anglais pour obtenir un plus grand nombre de résultats. En fonction du
 domaine d’étude, il est possible que la majeure partie des articles soient écrits dans une
